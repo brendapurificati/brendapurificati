@@ -1,12 +1,12 @@
-<h3 align="left">👩‍💻  Sobre Mim:</h3>
+<h3 align="left">👩‍💻  Welcome to my profile!</h3>
 
 ###
 
-<p align="left">Me chamo Brenda Pizano Purificati e estudo Ciências da Computação na UFES (Universidade Federal do Espírito Santo).<br><br>- 🔭 Aprendo diariamente sobre C# e C.<br>- 📚 Em constante aprendizado!</p>
+<p align="left">My name is Brenda Pizano Purificati and i am a Computer Science student at UFES (Federal University of Espírito Santo).<br><br>- 🔭 I'm currently focused on improving my skills in C# and learning databases with SQL.<br>- 💬 I speak Portuguese (native) and English (intermediate).</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 
 ###
 
@@ -23,10 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   Meus Status:</h3>
 
 ###
 
