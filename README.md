@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brenda Pizano Purificati and i am a Computer Science student at UFES (Federal University of Espírito Santo).<br><br>- 🔭 I'm currently focused on improving my skills in C# and learning databases with SQL.<br>- 💬 I speak Portuguese (native) and English (intermediate).</p>
+<p align="left">My name is Brenda Pizano Purificati and i'm a Computer Science student at UFES (Federal University of Espírito Santo).<br><br>- 🔭 I'm currently focused on improving my skills in C# and learning databases with SQL.<br>- 💬 I speak Portuguese (native) and English (intermediate).</p>
 
 ###
 
